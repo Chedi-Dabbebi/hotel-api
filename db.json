@@ -7,7 +7,13 @@
       "stars": 5,
       "price": "$180",
       "address": "Zone Touristique, Midoun",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "description": "Un endroit parfait pour se déconnecter et profiter du soleil.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://picsum.photos/seed/hotel1b/600/400",
+        "https://picsum.photos/seed/hotel1c/600/400"
+      ]
     },
     {
       "id": "2",
@@ -16,7 +22,13 @@
       "stars": 4,
       "price": "$110",
       "address": "Phare de Taguermess, Midoun",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+      "description": "Confort simple, accueil chaleureux, et une vue qui vaut le détour.",
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://picsum.photos/seed/hotel2b/600/400",
+        "https://picsum.photos/seed/hotel2c/600/400"
+      ]
     },
     {
       "id": "3",
@@ -25,7 +37,13 @@
       "stars": 5,
       "price": "$240",
       "address": "Plage de Sidi Mehrez, Djerba",
-      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "description": "Le genre d'hôtel où on prévoit une nuit et on reste une semaine.",
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "https://picsum.photos/seed/hotel3b/600/400",
+        "https://picsum.photos/seed/hotel3c/600/400"
+      ]
     },
     {
       "id": "4",
@@ -34,7 +52,13 @@
       "stars": 4,
       "price": "$130",
       "address": "Zone Touristique, Midoun",
-      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+      "description": "Ambiance calme, service rapide, et un petit-déjeuner à ne pas rater.",
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+        "https://picsum.photos/seed/hotel4b/600/400",
+        "https://picsum.photos/seed/hotel4c/600/400"
+      ]
     },
     {
       "id": "5",
@@ -43,7 +67,13 @@
       "stars": 4,
       "price": "$145",
       "address": "Zone Touristique, Midoun",
-      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+      "description": "Un séjour sans surprises, dans le bon sens du terme.",
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://picsum.photos/seed/hotel5b/600/400",
+        "https://picsum.photos/seed/hotel5c/600/400"
+      ]
     },
     {
       "id": "6",
@@ -52,7 +82,13 @@
       "stars": 5,
       "price": "$200",
       "address": "Zone Touristique Nord, Hammamet",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+      "description": "Piscine, plage, et juste assez de luxe pour se sentir en vacances.",
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://picsum.photos/seed/hotel6b/600/400",
+        "https://picsum.photos/seed/hotel6c/600/400"
+      ]
     },
     {
       "id": "7",
@@ -61,7 +97,13 @@
       "stars": 5,
       "price": "$190",
       "address": "Avenue Moncef Bey, Hammamet",
-      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "description": "Idéal pour les familles, avec des activités pour petits et grands.",
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "https://picsum.photos/seed/hotel7b/600/400",
+        "https://picsum.photos/seed/hotel7c/600/400"
+      ]
     },
     {
       "id": "8",
@@ -70,7 +112,13 @@
       "stars": 5,
       "price": "$220",
       "address": "Yasmine Hammamet",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "description": "Chambres spacieuses et personnel toujours prêt à aider.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://picsum.photos/seed/hotel8b/600/400",
+        "https://picsum.photos/seed/hotel8c/600/400"
+      ]
     },
     {
       "id": "9",
@@ -79,7 +127,13 @@
       "stars": 4,
       "price": "$115",
       "address": "Avenue Assad Ibn El Fourat, Hammamet",
-      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+      "description": "Un mélange réussi entre tradition tunisienne et confort moderne.",
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+        "https://picsum.photos/seed/hotel9b/600/400",
+        "https://picsum.photos/seed/hotel9c/600/400"
+      ]
     },
     {
       "id": "10",
@@ -88,7 +142,13 @@
       "stars": 5,
       "price": "$160",
       "address": "Boulevard 14 Janvier, Sousse",
-      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "description": "Le spot parfait pour un week-end de détente entre amis.",
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "https://picsum.photos/seed/hotel10b/600/400",
+        "https://picsum.photos/seed/hotel10c/600/400"
+      ]
     },
     {
       "id": "11",
@@ -97,7 +157,13 @@
       "stars": 5,
       "price": "$140",
       "address": "Boulevard 7 Novembre, Sousse",
-      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+      "description": "Un endroit parfait pour se déconnecter et profiter du soleil.",
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+        "https://picsum.photos/seed/hotel11b/600/400",
+        "https://picsum.photos/seed/hotel11c/600/400"
+      ]
     },
     {
       "id": "12",
@@ -106,7 +172,13 @@
       "stars": 5,
       "price": "$175",
       "address": "Boulevard Abdelhamid El Elfech, Sousse",
-      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+      "description": "Confort simple, accueil chaleureux, et une vue qui vaut le détour.",
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://picsum.photos/seed/hotel12b/600/400",
+        "https://picsum.photos/seed/hotel12c/600/400"
+      ]
     },
     {
       "id": "13",
@@ -115,7 +187,13 @@
       "stars": 4,
       "price": "$95",
       "address": "Boulevard 14 Janvier, Sousse",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+      "description": "Le genre d'hôtel où on prévoit une nuit et on reste une semaine.",
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://picsum.photos/seed/hotel13b/600/400",
+        "https://picsum.photos/seed/hotel13c/600/400"
+      ]
     },
     {
       "id": "14",
@@ -124,7 +202,13 @@
       "stars": 5,
       "price": "$350",
       "address": "Gammarth, Tunis",
-      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+      "description": "Ambiance calme, service rapide, et un petit-déjeuner à ne pas rater.",
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://picsum.photos/seed/hotel14b/600/400",
+        "https://picsum.photos/seed/hotel14c/600/400"
+      ]
     },
     {
       "id": "15",
@@ -133,7 +217,13 @@
       "stars": 5,
       "price": "$210",
       "address": "La Médina, Tunis",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "description": "Un séjour sans surprises, dans le bon sens du terme.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://picsum.photos/seed/hotel15b/600/400",
+        "https://picsum.photos/seed/hotel15c/600/400"
+      ]
     },
     {
       "id": "16",
@@ -142,7 +232,13 @@
       "stars": 5,
       "price": "$260",
       "address": "Les Côtes de Carthage, Gammarth",
-      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "description": "Piscine, plage, et juste assez de luxe pour se sentir en vacances.",
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "https://picsum.photos/seed/hotel16b/600/400",
+        "https://picsum.photos/seed/hotel16c/600/400"
+      ]
     },
     {
       "id": "17",
@@ -151,7 +247,13 @@
       "stars": 5,
       "price": "$135",
       "address": "Avenue Taieb Hachicha, Mahdia",
-      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+      "description": "Idéal pour les familles, avec des activités pour petits et grands.",
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://picsum.photos/seed/hotel17b/600/400",
+        "https://picsum.photos/seed/hotel17c/600/400"
+      ]
     },
     {
       "id": "18",
@@ -160,7 +262,13 @@
       "stars": 4,
       "price": "$95",
       "address": "Zone Touristique, Mahdia",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "description": "Chambres spacieuses et personnel toujours prêt à aider.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://picsum.photos/seed/hotel18b/600/400",
+        "https://picsum.photos/seed/hotel18c/600/400"
+      ]
     },
     {
       "id": "19",
@@ -169,7 +277,13 @@
       "stars": 5,
       "price": "$110",
       "address": "Zone Touristique, Mahdia",
-      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+      "description": "Un mélange réussi entre tradition tunisienne et confort moderne.",
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+        "https://picsum.photos/seed/hotel19b/600/400",
+        "https://picsum.photos/seed/hotel19c/600/400"
+      ]
     },
     {
       "id": "20",
@@ -178,7 +292,13 @@
       "stars": 5,
       "price": "$175",
       "address": "Skanes, Monastir",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+      "description": "Le spot parfait pour un week-end de détente entre amis.",
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://picsum.photos/seed/hotel20b/600/400",
+        "https://picsum.photos/seed/hotel20c/600/400"
+      ]
     },
     {
       "id": "21",
@@ -187,7 +307,13 @@
       "stars": 3,
       "price": "$90",
       "address": "Skanes, Monastir",
-      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "description": "Un endroit parfait pour se déconnecter et profiter du soleil.",
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "https://picsum.photos/seed/hotel21b/600/400",
+        "https://picsum.photos/seed/hotel21c/600/400"
+      ]
     },
     {
       "id": "22",
@@ -196,7 +322,13 @@
       "stars": 5,
       "price": "$140",
       "address": "Route Touristique Skanes, Monastir",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "description": "Confort simple, accueil chaleureux, et une vue qui vaut le détour.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://picsum.photos/seed/hotel22b/600/400",
+        "https://picsum.photos/seed/hotel22c/600/400"
+      ]
     },
     {
       "id": "23",
@@ -205,7 +337,13 @@
       "stars": 4,
       "price": "$115",
       "address": "Sidi Salem, Bizerte",
-      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+      "description": "Le genre d'hôtel où on prévoit une nuit et on reste une semaine.",
+      "images": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945",
+        "https://picsum.photos/seed/hotel23b/600/400",
+        "https://picsum.photos/seed/hotel23c/600/400"
+      ]
     },
     {
       "id": "24",
@@ -214,7 +352,13 @@
       "stars": 3,
       "price": "$85",
       "address": "Route de Corniche, Bizerte",
-      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+      "description": "Ambiance calme, service rapide, et un petit-déjeuner à ne pas rater.",
+      "images": [
+        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa",
+        "https://picsum.photos/seed/hotel24b/600/400",
+        "https://picsum.photos/seed/hotel24c/600/400"
+      ]
     },
     {
       "id": "25",
@@ -223,7 +367,13 @@
       "stars": 4,
       "price": "$105",
       "address": "Zone Touristique, Nabeul",
-      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d"
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+      "description": "Un séjour sans surprises, dans le bon sens du terme.",
+      "images": [
+        "https://images.unsplash.com/photo-1571896349842-33c89424de2d",
+        "https://picsum.photos/seed/hotel25b/600/400",
+        "https://picsum.photos/seed/hotel25c/600/400"
+      ]
     },
     {
       "id": "26",
@@ -232,7 +382,13 @@
       "stars": 4,
       "price": "$125",
       "address": "Zone Touristique, Midoun",
-      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+      "description": "Piscine, plage, et juste assez de luxe pour se sentir en vacances.",
+      "images": [
+        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb",
+        "https://picsum.photos/seed/hotel26b/600/400",
+        "https://picsum.photos/seed/hotel26c/600/400"
+      ]
     },
     {
       "id": "27",
@@ -241,7 +397,13 @@
       "stars": 5,
       "price": "$165",
       "address": "Zone Touristique Skanes, Monastir",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+      "description": "Idéal pour les familles, avec des activités pour petits et grands.",
+      "images": [
+        "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4",
+        "https://picsum.photos/seed/hotel27b/600/400",
+        "https://picsum.photos/seed/hotel27c/600/400"
+      ]
     },
     {
       "id": "28",
@@ -250,7 +412,13 @@
       "stars": 5,
       "price": "$185",
       "address": "Avenue Moncef Bey, Hammamet",
-      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd"
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+      "description": "Chambres spacieuses et personnel toujours prêt à aider.",
+      "images": [
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd",
+        "https://picsum.photos/seed/hotel28b/600/400",
+        "https://picsum.photos/seed/hotel28c/600/400"
+      ]
     }
   ]
 }
